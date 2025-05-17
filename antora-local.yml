@@ -1,8 +1,8 @@
 ---
 site:
-  title: Paladins Inn Software
-  url: https://docs.paladins-inn.de
-  start_page: pi:commons:index.adoc
+  title: Kaiserpfalz EDV-Service Software
+  url: https://docs.kaiserpfalz-edv.de
+  start_page: kes:commons:index.adoc
   robots: |
     User-agent: *
     Disallow: /impressum.html
@@ -12,17 +12,9 @@ content:
     - url: .
       branches: main
       version: false
-    - url: ../dcis/dcis-architecture
-      start_path: src/main/docs/torganized-play
-      branches: main
-      version: false
-    - url: ../dcis/dcis-architecture
-      start_path: src/main/docs/dcis
-      branches: main
-      version: false
-    - url: ../dcis/dcis-architecture
-      start_path: src/main/docs/architecture
-      branches: main
+    - url: ../kp-commons
+      start_path: modules/kp-users-root/docs
+      branches: ['feature/kp-users']
       version: false
 
 urls:
@@ -39,7 +31,7 @@ ui:
         - CNAME
     - path: CNAME
       contents: |
-       docs.paladins-inn.de
+       docs.kaiserpfalz-edv.de
 
 antora:
   extensions:
