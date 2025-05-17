@@ -37,7 +37,7 @@ footer:
     center:
       content: ''
     right:
-      content: 'image:./modules/commons/images/KES-Wappen-740x1000.png[width=10,height=15] Paladins Inn'
+      content: 'image:./modules/ROOT/images/KES-Wappen-740x1000.png[width=10,height=15] Paladins Inn'
   verso:
     left:
       content: $footer-recto-right-content
