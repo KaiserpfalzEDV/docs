@@ -14,7 +14,7 @@ content:
       version: false
     - url: https://github.com/KaiserpfalzEDV/kp-commons.git
       start_path: modules/kp-users-root/docs
-      branches: main
+      branches: ['feature/kp-users']
       version: false
 
 urls:
