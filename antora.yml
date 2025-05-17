@@ -1,6 +1,6 @@
 ---
-name: pi
+name: kes
 version: ~
-title: Paladins Inn Software
+title: Kaiserpfalz EDV-Service Software
 nav:
   - modules/commons/pages/nav.adoc

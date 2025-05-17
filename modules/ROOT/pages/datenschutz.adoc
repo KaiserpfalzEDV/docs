@@ -1,9 +1,7 @@
-[[datenschutz]]
 = Datenschutz auf einen Blick
-:page-aliases: dcis:dcis:datenschutz.adoc, dcis:datenschutz.adoc, \
-architecture:arc42:datenschutz.adoc, architecture:datenschutz.adoc, \
-tp:torganized-play:datenschutz.adoc, tp:datenschutz.adoc
+:page-aliases: kes:commons:datenschutz.adoc
 
+include::partial$config.adoc[]
 
 == Allgemeine Hinweise
 

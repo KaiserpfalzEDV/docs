@@ -1,22 +1,19 @@
-[[impressum]]
 = Impressum
 Roland T. Lichti <rlichti@kaiserpfalz-edv.de>
-:page-aliases: dcis:dcis:impressum.adoc, dcis:impressum.adoc, \
-architecture:arc42:impressum.adoc, architecture:impressum.adoc, \
-tp:torganized-play:impressum.adoc, tp:impressum.adoc
-:homepage: https://paladins-inn.de
-:keywords: RPG, TTRPG, Software
+:page-aliases: kes:commons:impressum.adoc,
+:homepage: https://www.kaiserpfalz-edv.de
+:keywords: Software
 
+include::partial$config.adoc[]
 
 [role="lead"]
 image::klenkes74.jpg[klenkes74,150,150,role=left]
 
 Hi, I'm Roland T. Lichti, known in most internet communities as klenkes74.
-Paladins Inn is my side project.
-I use it to promote role playing games, especially Torg Eternity.
-This software system, the DCIS (Delphi Council Information System) should support playing Torg Eternity.
-It provides a game registration system where game masters can create tables to offer game sessions to players.
-Also it tries to create a shared campaign with a shared timeline and a scoring system to give the players and game masters agency to steer the campaign. 
+Kaiserpfalz EDV-Service is my side project.
+I use it as a platform to host my software projects and to provide some services.
+Main project is the https://docs.paladins-inn.de[Paladins Inn] project.
+There I try to provide software for supporting tabletop roleplaying games.
 
 
 [[impressum-contact]]

@@ -1,6 +1,6 @@
 ---
 site:
-  title: Paladins Inn Software
+  title: Kaiserpfalz-EDV Software
   url: https://docs.paladins-inn.de
   start_page: pi:commons:index.adoc
   robots: |
@@ -12,16 +12,8 @@ content:
     - url: .
       branches: main
       version: false
-    - url: https://github.com/Paladins-Inn/torganized-play-architecture.git
-      start_path: src/main/docs/torganized-play
-      branches: main
-      version: false
-    - url: https://github.com/Paladins-Inn/torganized-play-architecture.git
-      start_path: src/main/docs/dcis
-      branches: main
-      version: false
-    - url: https://github.com/Paladins-Inn/torganized-play-architecture.git
-      start_path: src/main/docs/architecture
+    - url: https://github.com/KaiserpfalzEDV/kp-commons.git
+      start_path: modules/kp-users-root/docs
       branches: main
       version: false
 
@@ -39,7 +31,7 @@ ui:
         - CNAME
     - path: CNAME
       contents: |
-       docs.paladins-inn.de
+       docs.kaiserpfalz-edv.de
 
 antora:
   extensions:

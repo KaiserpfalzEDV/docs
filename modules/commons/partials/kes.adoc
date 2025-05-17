@@ -1,0 +1,8 @@
+[NOTE]
+====
+image::ROOT:klenkes74.jpg[klenkes74,150,150,role=right]
+
+Kaiserpfalz EDV-Service is the software and infrastructure project of https://www.lichti.de[Roland T. Lichti].
+
+Please feel free to https://www.kaiserpfalz-edv.de[inform yourself on our pages].
+====

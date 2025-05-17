@@ -1,0 +1,1 @@
+include::kes:commons:partial$config.adoc[]

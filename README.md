@@ -1,15 +1,15 @@
-# paladins-inn/docs
+# KaiserpfalzEDV/docs
 
 > What man is a man who does not make the world better.
 >
 > -- Balian, Kingdom of Heaven
 
-[![Publish to GitHub Pages with Lunr Search Extension](https://github.com/Paladins-Inn/docs/actions/workflows/publish-docs.yml/badge.svg)](https://github.com/Paladins-Inn/docs/actions/workflows/publish-docs.yml)
+[![Publish to GitHub Pages with Lunr Search Extension](https://github.com/KaiserpfalzEDV/docs/actions/workflows/publish-docs.yml/badge.svg)](https://github.com/KaiserpfalzEDV/docs/actions/workflows/publish-docs.yml)
 
 ## Abstract
 
-This is the source to https://docs.paladins-inn.de.
-I document the projects of https://www.paladins-inn.de on this antora based site.
+This is the source to https://docs.kaiserpfalz-edv.de.
+I document the projects of https://www.kaiserpfalz-edv.de on this antora based site.
 The hosting is done via github pages.
 
 ## License
@@ -25,4 +25,4 @@ So no short cuts to get faster.
 And be prepared for some basic discussions about the architecture or software design :-).
 
 ---
-Bensheim, 2025-04-05
+Bensheim, 2025-05-17

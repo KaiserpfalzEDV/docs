@@ -1,7 +1,9 @@
-= Paladins Inn Software
+= Kaiserpfalz EDV-Service
 :page-aliases: ROOT:index.adoc
 
-Willkommen auf den Seiten vom Paladins Inn.
-Hier findest Du Dokumentation über die Software-Projekte rund um Rollenspiele.
+include::partial$config.adoc[]
 
-include::nav.adoc[]
+Willkommen bei den Softwareprojekten vom Kaiserpfalz EDV-Service.
+Hier findest Du unsere Dokumentation zu den Softwareprojekten.
+
+include::kes:commons:partial$kes.adoc[]
