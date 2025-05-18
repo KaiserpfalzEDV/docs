@@ -1,7 +1,7 @@
 ---
 site:
   title: Kaiserpfalz-EDV Software
-  url: https://kaiserpfalz-edv.github.io/docs/
+  url: https://arc42.kaiserpfalz-edv.github.io/
   start_page: pi:commons:index.adoc
   robots: |
     User-agent: *
@@ -31,7 +31,7 @@ ui:
         - CNAME
     - path: CNAME
       contents: |
-        kaiserpfalz-edv.github.io/docs
+        arc42.kaiserpfalz-edv.github.io
 
 antora:
   extensions:
