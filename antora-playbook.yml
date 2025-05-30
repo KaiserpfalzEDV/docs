@@ -2,7 +2,7 @@
 site:
   title: Kaiserpfalz-EDV Software
   url: https://docs.kaiserpfalz-edv.github.io/
-  start_page: 4.1.0-SNAPSHOT@kes:ROOT:index.adoc
+  start_page: 4.1@kes:ROOT:index.adoc
   robots: |
     User-agent: *
     Disallow: /impressum.html
@@ -10,15 +10,15 @@ site:
 content:
   sources:
     - url: .
-      branches: ['feature/kp-users']
+      branches: *
       version: false
     - url: https://github.com/KaiserpfalzEDV/kp-commons.git
       start_path: docs
-      branches: ['feature/kp-users']
+      branches: *
       version: true
     - url: https://github.com/KaiserpfalzEDV/kp-commons.git
       start_path: modules/kp-users-root/docs
-      branches: ['feature/kp-users']
+      branches: *
       version: true
 
 urls:
