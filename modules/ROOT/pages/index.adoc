@@ -1,4 +1,6 @@
 = Kaiserpfalz EDV-Service
+:page-aliases: kes@main:ROOT:index.adoc
+
 include::partial$config.adoc[]
 
 Welcome to the Kaiserpfalz EDV-Service software projects documentation.
