@@ -1,6 +1,6 @@
 ---
 name: kes
-version: 4.1
+version: current
 title: Kaiserpfalz EDV-Service Software
 nav:
   - modules/ROOT/pages/nav.adoc
