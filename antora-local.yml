@@ -2,7 +2,7 @@
 site:
   title: Kaiserpfalz EDV-Service Software
   url: https://docs.kaiserpfalz-edv.de
-  start_page: current@kes:commons:index.adoc
+  start_page: kes:ROOT:index.adoc
   robots: |
     User-agent: *
     Disallow: /impressum.html

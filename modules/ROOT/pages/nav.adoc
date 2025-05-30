@@ -1,5 +1,11 @@
 include::partial$config.adoc[]
 
 * xref:index.adoc[]
+* Manuals
+** xref:kp-commons:manual:index.adoc[kp-commons]
+** xref:kp-commons-users:manual:index.adoc[kp-commons-users]
+* arc42 architecture documentation
+** xref:kp-commons:arc42:index.adoc[kp-commons]
+** xref:kp-commons-users:arc42:index.adoc[kp-commons-users]
 * xref:impressum.adoc[]
 * xref:datenschutz.adoc[]
