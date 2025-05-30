@@ -1,3 +1,0 @@
-include::partial$config.adoc[]
-
-* xref:kes:commons:index.adoc[]

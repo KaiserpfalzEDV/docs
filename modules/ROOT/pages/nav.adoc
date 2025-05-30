@@ -1,0 +1,5 @@
+include::partial$config.adoc[]
+
+* xref:index.adoc[]
+* xref:impressum.adoc[]
+* xref:datenschutz.adoc[]

@@ -1,9 +1,0 @@
-= Kaiserpfalz EDV-Service
-:page-aliases: ROOT:index.adoc
-
-include::partial$config.adoc[]
-
-Willkommen bei den Softwareprojekten vom Kaiserpfalz EDV-Service.
-Hier findest Du unsere Dokumentation zu den Softwareprojekten.
-
-include::kes:commons:partial$kes.adoc[]

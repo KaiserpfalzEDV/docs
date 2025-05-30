@@ -11,11 +11,15 @@ content:
   sources:
     - url: .
       branches: main
-      version: false
+      version: true
+    - url: ../kp-commons
+      start_path: docs
+      branches: ['feature/kp-users']
+      version: true
     - url: ../kp-commons
       start_path: modules/kp-users-root/docs
       branches: ['feature/kp-users']
-      version: false
+      version: true
 
 urls:
   redirect_facility: static

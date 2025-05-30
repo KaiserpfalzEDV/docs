@@ -1,7 +1,7 @@
 ---
 site:
   title: Kaiserpfalz-EDV Software
-  url: https://arc42.kaiserpfalz-edv.github.io/
+  url: https://docs.kaiserpfalz-edv.github.io/
   start_page: pi:commons:index.adoc
   robots: |
     User-agent: *
@@ -13,9 +13,13 @@ content:
       branches: main
       version: false
     - url: https://github.com/KaiserpfalzEDV/kp-commons.git
+      start_path: docs
+      branches: ['feature/kp-users']
+      version: true
+    - url: https://github.com/KaiserpfalzEDV/kp-commons.git
       start_path: modules/kp-users-root/docs
       branches: ['feature/kp-users']
-      version: false
+      version: true
 
 urls:
   redirect_facility: static
@@ -31,7 +35,7 @@ ui:
         - CNAME
     - path: CNAME
       contents: |
-        arc42.kaiserpfalz-edv.github.io
+        docs.kaiserpfalz-edv.github.io
 
 antora:
   extensions:

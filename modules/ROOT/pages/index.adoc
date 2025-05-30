@@ -1,0 +1,6 @@
+= Kaiserpfalz EDV-Service
+include::partial$config.adoc[]
+
+Welcome to the Kaiserpfalz EDV-Service software projects documentation.
+
+include::partial$kes.adoc[]
