@@ -10,15 +10,15 @@ site:
 content:
   sources:
     - url: .
-      branches: *
+      branches: ['main']
       version: true
     - url: ../kp-commons
       start_path: docs
-      branches: *
+      branches: ['main']
       version: true
     - url: ../kp-commons
       start_path: modules/kp-users-root/docs
-      branches: *
+      branches: ['main']
       version: true
 
 urls:

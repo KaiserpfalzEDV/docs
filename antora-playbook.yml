@@ -10,15 +10,15 @@ site:
 content:
   sources:
     - url: .
-      branches: *
+      branches: ['main']
       version: false
     - url: https://github.com/KaiserpfalzEDV/kp-commons.git
       start_path: docs
-      branches: *
+      branches: ['main']
       version: true
     - url: https://github.com/KaiserpfalzEDV/kp-commons.git
       start_path: modules/kp-users-root/docs
-      branches: *
+      branches: ['main']
       version: true
 
 urls:
