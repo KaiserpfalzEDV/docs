@@ -1,5 +1,4 @@
 = Kaiserpfalz EDV-Service
-:page-aliases: kes:ROOT:index.adoc
 
 include::partial$config.adoc[]
 

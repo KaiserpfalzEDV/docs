@@ -2,7 +2,7 @@
 site:
   title: Kaiserpfalz EDV-Service Software
   url: https://docs.kaiserpfalz-edv.de
-  start_page: kes:commons:index.adoc
+  start_page: 4.1.0-SNAPSHOT@kes:commons:index.adoc
   robots: |
     User-agent: *
     Disallow: /impressum.html
@@ -10,7 +10,7 @@ site:
 content:
   sources:
     - url: .
-      branches: main
+      branches: ['feature/kp-users']
       version: true
     - url: ../kp-commons
       start_path: docs
