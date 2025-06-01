@@ -1,7 +1,7 @@
 ---
 site:
-  title: Kaiserpfalz EDV-Service Software
-  url: https://docs.kaiserpfalz-edv.de
+  title: Kaiserpfalz-EDV Software
+  url: https://docs.kaiserpfalz-edv.github.io/
   start_page: kes:ROOT:index.adoc
   robots: |
     User-agent: *
@@ -16,8 +16,8 @@ content:
       start_path: docs
       branches: ['main']
       version: true
-    - url: ../kp-commons
-      start_path: modules/kp-users-root/docs
+    - url: ../kp-users
+      start_path: docs
       branches: ['main']
       version: true
 
@@ -41,7 +41,7 @@ antora:
   extensions:
     - require: '@antora/lunr-extension'
     - require: '@antora/pdf-extension'
-    
+
 asciidoc:
   attributes:
     toc: ''

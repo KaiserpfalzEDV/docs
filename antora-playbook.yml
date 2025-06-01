@@ -11,13 +11,13 @@ content:
   sources:
     - url: .
       branches: ['main']
-      version: false
+      version: true
     - url: https://github.com/KaiserpfalzEDV/kp-commons.git
       start_path: docs
       branches: ['main']
       version: true
-    - url: https://github.com/KaiserpfalzEDV/kp-commons.git
-      start_path: modules/kp-users-root/docs
+    - url: https://github.com/KaiserpfalzEDV/kp-users.git
+      start_path: docs
       branches: ['main']
       version: true
 
@@ -35,7 +35,7 @@ ui:
         - CNAME
     - path: CNAME
       contents: |
-        docs.kaiserpfalz-edv.github.io
+       docs.kaiserpfalz-edv.de
 
 antora:
   extensions:
@@ -51,7 +51,7 @@ asciidoc:
     sectanchors: true
     kroki-server-url: https://kroki.apps.kali.kaiserpfalz-edv.de
     kroki-fetch-diagram: true
-    imagesoutdir: temp_image/
+    kroki: temp_image/
   extensions:
     - 'asciidoctor-kroki'
 

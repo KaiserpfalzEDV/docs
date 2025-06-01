@@ -3,11 +3,10 @@ include::partial$config.adoc[]
 * xref:index.adoc[Home]
 * Manuals
 ** xref:kp-commons:manual:index.adoc[kp-commons Manual]
-** xref:kp-commons-users:manual:index.adoc[kp-commons-users Manual]
+** xref:kp-users:manual:index.adoc[kp-users Manual]
 * arc42 Architecture Documentation
 ** xref:kp-commons:arc42:index.adoc[kp-commons arc42 architecture documentation]
-** xref:kp-commons-users:arc42:index.adoc[kp-commons-users arc42 architecture documentation]
-include::kp-commons:manual:partial$nav.appendix.adoc[]
+** xref:kp-users:arc42:index.adoc[kp-users arc42 architecture documentation]
 * Legal Stuff
 ** xref:impressum.adoc[]
 ** xref:datenschutz.adoc[]
