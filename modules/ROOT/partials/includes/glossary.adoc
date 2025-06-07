@@ -1,0 +1,2 @@
+:gloss_scs: xref:kes:ROOT:glossary.adoc#SCS[&uarr;SCS]
+:gloss_transclude: xref:kes:ROOT:glossary.adoc#Transclude[&uarr;transclude]

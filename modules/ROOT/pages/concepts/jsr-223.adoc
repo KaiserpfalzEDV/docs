@@ -1,0 +1,52 @@
+= JSR-223 Scripting Integration
+
+JSR-223 (link:https://www.jcp.org/en/jsr/detail?id=223[Java Specification Request 223]) is a specification for the Scripting API for the Java platform.
+It enables integration of scripting languages into Java applications and offers the following advantages:
+
+Language Independence::
+Uniform API for various scripting languages (JavaScript, Python, Ruby, Groovy, etc.)
+
+Dynamic Execution::
+Scripts can be loaded and executed at runtime
+
+Bidirectional Access::
+Java code can access script objects and vice versa
+
+Standardized Integration::
+Part of the Java standard since Java 6
+
+Template engines with JSR-223 support can be integrated into various Java applications through this interface without requiring specific adapters.
+This allows for more flexible integration across different frameworks and use cases.
+
+
+== Java Frameworks Supporting JSR-223
+
+=== Template Engines
+
+* link:https://freemarker.apache.org/[FreeMarker] - A powerful template engine with MVC pattern focus
+
+* link:https://velocity.apache.org/[Velocity] - An established Java-based template engine
+
+* link:https://docs.groovy-lang.org/latest/html/documentation/template-engines.html[Groovy Templates] - Template functionality based on the Groovy scripting language
+
+=== Scripting Languages
+
+* link:https://openjdk.org/projects/nashorn/[Nashorn] - JavaScript engine included in Java (deprecated since Java 11)
+
+* link:https://www.graalvm.org/javascript/[GraalVM JavaScript] - Modern JavaScript implementation for Java
+
+* link:https://groovy-lang.org/[Groovy] - Dynamic language for the Java platform with scripting capabilities
+
+* link:https://www.jython.org/[Jython] - Python implementation for Java
+
+* link:https://www.jruby.org/[JRuby] - Ruby implementation for Java
+
+* link:https://kotlinlang.org/docs/custom-script-deps.html[Kotlin Scripting] - Script capability for the Kotlin language
+
+=== Integration Frameworks
+
+* link:https://camel.apache.org/components/latest/languages/jsr223-language.html[Apache Camel] - Integration framework with JSR-223 component
+
+* link:https://spring.io/projects/spring-framework[Spring Framework] - Support for JSR-223 in Spring expression language
+
+* link:https://quarkus.io/[Quarkus] - Cloud-native Java framework with GraalVM JavaScript support

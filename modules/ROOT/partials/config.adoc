@@ -27,3 +27,5 @@
 //:toc-title: Inhaltsverzeichnis
 //:preface-title: Vorwort
 //:appendix-title: Anhang
+
+include::partial$includes/glossary.adoc[]
