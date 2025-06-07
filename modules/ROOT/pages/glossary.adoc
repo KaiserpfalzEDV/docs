@@ -7,18 +7,4 @@ include::partial$config.adoc[]
 |===
 | Term | Definition
 
-2+h| [[A]]AÄ [[B]]B [[C]]C [[D]]D [[E]]E [[F]]F [[G]]G [[H]]H [[I]]I [[J]]J [[K]]K [[L]]L [[M]]M [[N]]N [[O]]OÖ [[P]]P [[Q]]Q [[R]]R [[S]]Sß
-
-| [[SCS]]SCS, Self-contained System
-| A Self-contained System (SCS) is a web application that is designed to be independent and self-sufficient, containing all necessary components to function without relying on external systems. It typically includes its own user interface, business logic, and data storage.
-It is an architectural pattern propagated by the german consulting company INNOQ and thoroughly described in https://en.wikipedia.org/wiki/Self-contained_system_(software)[&uarr;Wikipedia]
-
-
-2+h| [[T]]T
-
-| [[Transclude]]Transclude
-| A transclude is a part of a page that is included in another page. It allows for modular content management, where common elements can be reused across multiple pages without duplication.
-
-2+h|  [[U]]UÜ [[V]]V [[W]]W [[X]]X [[Y]]Y Z
-
 |===
